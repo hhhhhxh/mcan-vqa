@@ -77,8 +77,8 @@ MSCOCO Dataset为图像数据集，用于提取图像特征，我们使用基于
 
 由于数据集比较大，因此数据集我并未提交，可以在
 
-1. https://github.com/peteanderson80/bottom-up-attention找到coco_extract的下载链接
-2. https://awma1-my.sharepoint.com/:f:/g/personal/yuz_l0_tn/EmVHVeGdck1IifPczGmXoaMBFiSvsegA6tf_PqxL3HXclw中下载VG Dataset
+1. https://github.com/peteanderson80/bottom-up-attention 找到coco_extract的下载链接
+2. https://awma1-my.sharepoint.com/:f:/g/personal/yuz_l0_tn/EmVHVeGdck1IifPczGmXoaMBFiSvsegA6tf_PqxL3HXclw 中下载VG Dataset
 
 然后运行setup.sh，将会下载VQA v2.0 Dataset并解压coco_extract的压缩文件。
 
