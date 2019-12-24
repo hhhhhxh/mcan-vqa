@@ -1,6 +1,6 @@
 # 功能
 
-该程序利用基于注意力机制的深度学习实现了一个视觉问答系统。所谓视觉问答系统，指的是针对给定图片提出的问题作出相应的回答。该程序基于VQA v2.0 Dataset和VG Dataset进行训练，并可以在验证集上进行离线测试，也可以生成结果文件，用于提交到VQA测试平台(https://evalai.cloudcv.org/web/challenges/challenge-page/163/overview)进行在线测试，还可以对某张图片单独输入问题进行询问，并给出回答。
+该程序利用基于注意力机制的深度学习实现了一个视觉问答系统。所谓视觉问答系统，指的是针对给定图片提出的问题作出相应的回答。该程序基于VQA v2.0 Dataset和VG Dataset进行训练，并可以在验证集上进行离线测试，也可以生成结果文件，用于提交到[VQA测试平台](https://evalai.cloudcv.org/web/challenges/challenge-page/163/overview)进行在线测试，还可以对某张图片单独输入问题进行询问，并给出回答。
 
 # 文件结构
 
