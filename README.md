@@ -5,7 +5,7 @@
 # 文件结构
 
 ```
-vqa
+mcan-vqa
 ├── cfgs
 │   ├── base_cfgs.py
 │   └── path_cfgs.py
